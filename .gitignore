@@ -1,0 +1,18 @@
+datasets/
+.vscode
+__pycache__
+.gitignore5
+.idea\
+data_lists/.ipynb_checkpoints/
+exp/SincNet_TIMIT/res.res
+
+# Ignore pickles
+*.pkl
+**/*.pkl
+exp/*
+pretrained_models/
+exp/SincNet_vkyc/model_raw.pkl
+exp/SincNet_TIMIT/model_raw.pkl
+exp/SincNet_TIMIT/new_model_tanh.pkl
+
+note.txt
